@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "TabTimize",
+  "description": "A lightweight Tab Optimizer by n0tst3",
+  "version": "0.0.1",
+
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab",
+	    "storage"
+  ]
+}
