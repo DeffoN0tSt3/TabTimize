@@ -30,5 +30,7 @@ Implement additional options
 
 Implement about/git link
 
+Implement auto naming of groups by domain
+
 ###### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
