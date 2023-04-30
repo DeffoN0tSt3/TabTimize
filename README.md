@@ -29,11 +29,13 @@ TabTimize is a work in progress and contributions are warmly welcomed. To contri
 ##### ToDo
 ~~Implement and style popup/UI HTML~~ **DONE**
 
-Implement additional options
-
 ~~Implement about/git link~~ **DONE**
 
+Implement additional options
+
 Implement auto naming of groups by domain
+
+Upload v0.1.0 when ready too Chrome Extension Store
 
 ###### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
