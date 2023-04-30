@@ -1,5 +1,8 @@
 # TabTimize
 
+ ![TabTimize](TabTimize.png)
+
+
 TabTimize is a lightweight Google Chrome tab optimizer that helps you manage your tabs more efficiently. 
 
 With TabTimize, you can quickly and easily group your tabs by domain and reduce clutter in your browser window.
@@ -24,11 +27,11 @@ To use TabTimize, simply click the "Group Tabs" button in the popup window to gr
 TabTimize is a work in progress and contributions are warmly welcomed. To contribute, fork the repository and submit a pull request.
 
 ##### ToDo
-Implement and style popup/UI HTML
+~~Implement and style popup/UI HTML~~ **DONE**
 
 Implement additional options
 
-Implement about/git link
+~~Implement about/git link~~ **DONE**
 
 Implement auto naming of groups by domain
 
