@@ -2,14 +2,26 @@
   "manifest_version": 3,
   "name": "TabTimize",
   "description": "A lightweight Tab Optimizer by n0tst3",
-  "version": "0.0.1",
-
+  "version": "0.0.2",
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon.png",
+      "48": "images/icon.png",
+      "128": "images/icon.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
   },
   "permissions": [
     "tabs",
     "activeTab",
-	    "storage"
-  ]
-}
+    "storage"
+  ],
+  "icons": {
+    "16": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+    }
+  }
