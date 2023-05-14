@@ -1,6 +1,8 @@
 # TabTimize
 
  ![TabTimize](TabTimize.png)
+  ![TabTimize2](tabtimize2.png)
+
 
 
 TabTimize is a lightweight Google Chrome tab optimizer that helps you manage your tabs more efficiently. 
