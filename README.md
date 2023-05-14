@@ -35,7 +35,9 @@ Implement additional options
 
 Implement auto naming of groups by domain
 
-Upload v0.1.0 when ready too Chrome Extension Store
+Make theme dark
+
+Upload v0.1.0 when complete, to Chrome Extension Store
 
 ###### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
